@@ -19,4 +19,3 @@
 <hr>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://x.com/t0byj4s" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jsemtobias&show_icons=true&locale=en&layout=compact" alt="jsemtobias" /></p>
